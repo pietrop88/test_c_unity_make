@@ -5,7 +5,7 @@ TARGET_EXTENSION=out
 .PHONY: clean
 .PHONY: test
 
-PATHU = unity/src/
+PATHU = ext_lib/unity/src/
 PATHS = src/
 PATHT = test/
 PATHB = build/
